@@ -19,7 +19,7 @@ p {
     font-size: 18px;
 }
 
-@media (max-width: 449px) {
+@media (max-width: 700px) {
     .div1 img.fit {
         width: 50%;
         height: auto;
@@ -40,8 +40,3 @@ p {
 }
 
 
-@media (min-width: 450px) {
-    .div1 img.fit {
-        width: 75%;
-        height: auto;
-}
